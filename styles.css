@@ -1,0 +1,35 @@
+.buttonC {
+	padding-top: 100px;
+	text-align: center;
+}
+
+.outcome {
+	color: red;
+	padding-top: 50px;
+	font-size: 20px;
+	text-align: center;
+}
+
+button {
+	padding: 10px 20px;
+	border:2px solid #207cca;
+     background-color:#207cca;
+     color:#fafafa;
+     font-size: 20px;
+}
+
+.userBox, .compBox {
+	width: 50%;
+	float: left;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.userBox, .compBox{
+	font-size: 30px;
+	font-family: arial;
+}
+
+.userScore, .compScore {
+	color: red;
+}
